@@ -1,11 +1,10 @@
-# Hey, I'm Sandris 🎩
+# Hey, I'm Sandris 🤙🏻
 
 Student developer from Latvia. I build websites and occasionally things that work on the first try.
 
 - 🎓 Studying IT at university
 - 💼 Already doing paid programming work
-- 🔨 Currently building: Gamehub, a site for game reviews and discussion
-- 🏎️ Off the clock: sim racing, Minecraft servers, football
+- 🔨 Currently building: Nothin!
 
 ### Tech I use
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
